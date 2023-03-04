@@ -1,0 +1,2 @@
+# matplotlib_mac_chinese
+mac在matplotlib中显示中文的操作方法
